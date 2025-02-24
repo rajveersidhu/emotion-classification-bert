@@ -1,4 +1,4 @@
-# emotion-classification-bertAI-Based Emotion Classification Using BERT
+AI-Based Emotion Classification Using BERT
 
 Overview
 
@@ -33,7 +33,7 @@ Installation
 Clone the repository and install dependencies:
 
 # Clone the repo
-git clone https://github.com/yourusername/emotion-classification-bert.git
+git clone https://github.com/rajveersidhu/emotion-classification-bert.git
 cd emotion-classification-bert
 
 # Install dependencies
@@ -92,9 +92,8 @@ Improve model performance using hyperparameter tuning.
 
 Contributors
 
-Your Name (Your GitHub)
+Rajveer Sidhu
 
 License
 
 This project is licensed under the MIT License.
-
