@@ -28,7 +28,7 @@ Clone the repository and install dependencies:
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/emotion-classification-bert.git
+git clone https://github.com/rajveersidhu/emotion-classification-bert.git
 cd emotion-classification-bert
 
 # Install dependencies
@@ -96,7 +96,7 @@ pip install torch transformers scikit-learn pandas numpy
 
 ## Contributors
 
-- **Your Name** ([Your GitHub](https://github.com/yourusername))
+- **Rajveer Sidhu** ([Your GitHub](https://github.com/rajveersidhu))
 
 ## License
 
