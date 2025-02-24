@@ -1,5 +1,8 @@
 # predict.py - Runs real-time emotion classification
 
+import torch
+from transformers import BertTokenizer, BertForSequenceClassification
+
 def predict_emotion(text, model_path="models/emotion_model"):
     tokenizer = BertTokenizer.from_pretrained(model_path)
     model = BertForSequenceClassification.from_pretrained(model_path)
