@@ -96,7 +96,7 @@ pip install torch transformers scikit-learn pandas numpy
 
 ## Contributors
 
-- **Rajveer Sidhu** ([Your GitHub](https://github.com/rajveersidhu))
+- **Rajveer Sidhu** ([GitHub](https://github.com/rajveersidhu))
 
 ## License
 
